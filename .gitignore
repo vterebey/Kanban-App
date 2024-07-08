@@ -1,0 +1,7 @@
+.env
+tmp/main.exe
+tmp/build-errors.log
+web-developer-project-api.exe
+tmp
+.air.toml
+.vscode
